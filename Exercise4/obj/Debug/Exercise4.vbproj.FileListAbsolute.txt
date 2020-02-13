@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\bin\Debug\Exercise4.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\bin\Debug\Exercise4.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\bin\Debug\Exercise4.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\bin\Debug\Exercise4.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.Exercise4.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.Resources.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Exercise4\obj\Debug\Exercise4.pdb

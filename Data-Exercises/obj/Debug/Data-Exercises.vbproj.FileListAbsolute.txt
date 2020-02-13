@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\bin\Debug\Data-Exercises.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data_Exercises.Resources.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.vbproj.GenerateResource.Cache
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\bin\Debug\Data-Exercises.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\bin\Debug\Data-Exercises.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\bin\Debug\Data-Exercises.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.pdb
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data_Exercises.Example1.resources
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3\Data-Exercises\Data-Exercises\obj\Debug\Data_Exercises.Example2.resources

@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Data-Exercises\bin\Debug\Data-Exercises.exe.config
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.exe
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.xml
+\\Mac\Home\Documents\SJC\COM150\projects\chapter3-test\Data-Exercises\Data-Exercises\obj\Debug\Data-Exercises.pdb
